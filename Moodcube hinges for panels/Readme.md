@@ -2,3 +2,6 @@ Modfied hinges made by Kaosmaker @ https://github.com/KayosMaker/MoodCube_Hinges
 
 
 They are printed standing up vertical. And use a 5 mm pin as the hinge. 
+
+
+They do need to be printed really heavy I ended up at 6 out side and 80% infill I believe. 
