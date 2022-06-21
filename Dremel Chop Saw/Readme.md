@@ -1,4 +1,5 @@
-This is a modfied desing from https://www.myminifactory.com/object/3d-print-211192
+This is a modfied designfrom https://www.myminifactory.com/object/3d-print-211192
+Orginal build video here. https://www.youtube.com/watch?v=iwKXmwjGt9U
 
 Channged to use standard m3 heatsets and added a Heatset base if wanted as well.
 
