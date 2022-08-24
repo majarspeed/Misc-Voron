@@ -1,0 +1,1 @@
+Used to install best handles on standard voron 2 part door using VHB. Inclued some cutdown magnets for the top and bottom. Print 2 of the either the smooth or knurled handle of your choise. Then print the remaing parts to install. Requires VHB and not glueing it to yourself. 
