@@ -7,5 +7,7 @@ Use the center as a guide to stack and glue the parts in the proper order.
 
 May the Voron be with you...
 
+![Handles](https://github.com/majarspeed/Misc-Voron/raw/main/images/Lightsaber_handle2.jpg "Handles")
+![Handles](https://github.com/majarspeed/Misc-Voron/raw/main/images/Lightsaber_handle.jpg "Handles")
 
 
